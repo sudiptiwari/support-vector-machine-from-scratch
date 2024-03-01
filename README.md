@@ -3,6 +3,7 @@
 Welcome to Numpy-SVM, a comprehensive exploration into building a Support Vector Machine (SVM) from the ground up using Python and the powerful numerical computing library, NumPy. This project serves as an educational resource for beginners, providing a clear understanding of the inner workings of SVMs through hands-on implementation and detailed mathematical explanations.
 
 This project is inspired by:
+
 Article: [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 
 Video: [SVM (The Math) : Data Science Concepts](https://www.youtube.com/watch?v=bM4_AstaBZo)
