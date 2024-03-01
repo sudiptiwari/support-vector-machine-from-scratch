@@ -4,6 +4,7 @@ Welcome to Numpy-SVM, a comprehensive exploration into building a Support Vector
 
 This project is inspired by:
 Article: [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+
 Video: [SVM (The Math) : Data Science Concepts](https://www.youtube.com/watch?v=bM4_AstaBZo)
 
 ## Features:
