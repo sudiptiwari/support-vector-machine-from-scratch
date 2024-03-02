@@ -42,6 +42,6 @@ This project is open-source and available under the MIT License. Feel free to us
 
 ## Acknowledgments:
 
-Special thanks to the co-developers(Sandhya Baral and Satyasa Khadka) and contributors to the NumPy library and the scikit-learn project for providing inspiration and foundational knowledge for this educational resource.
+Special thanks to the co-developers([Sandhya Baral](https://github.com/Sandukkk) and [Satyasa Khadka](https://github.com/Satyasakhadka)) and contributors to the NumPy library and the scikit-learn project for providing inspiration and foundational knowledge for this educational resource.
 
 Start your journey into the world of Support Vector Machines with Numpy-SVM! Happy coding!
